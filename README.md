@@ -1,3 +1,3 @@
 # Teleconnection-Analysis-using-R
 Teleconnection Analysis using R
-![](./Rplotsst345.jpg)
+![](./Rplot_sst_345.png)
